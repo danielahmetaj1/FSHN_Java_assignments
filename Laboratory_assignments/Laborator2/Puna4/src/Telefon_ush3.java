@@ -1,3 +1,4 @@
+/*--Ushtrimi 3-- Krijoni nje telefon si ne figure, ne textfield te shfaqet numri i formuar*/
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -23,7 +24,7 @@ public class Telefon_ush3 extends JFrame {
 
         for (String btnText : buttons) {
             JButton button = new JButton(btnText);
-//            button.setFont(new Font("Arial", Font.BOLD, 20));
+            button.setFont(new Font("Arial", Font.BOLD, 20));
             button.addActionListener((ActionEvent e) -> {
                 JButton source = (JButton) e.getSource();
                 number.append(source.getText());
