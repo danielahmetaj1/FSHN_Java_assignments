@@ -1,4 +1,4 @@
-/*--Ushtrimi 3-- Krijoni nje telefon si ne figure, ne textfield te shfaqet numri i formuar*/
+/*--Ushtrimi 3-- Krijoni nje telefon si ne figure, ne textfield te shfaqet numri i formuar */
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
