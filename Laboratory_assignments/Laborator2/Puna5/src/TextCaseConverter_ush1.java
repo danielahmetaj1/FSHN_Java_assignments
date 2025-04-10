@@ -1,7 +1,7 @@
 /*1. Ndërtoni një aplikacion i cili do të përmbajë një frame, me një textArea ku do te
 afishohet një tekst. Të shtohen 2 butona: “To Lower Case”, dhe “To Upper Case”
 që do te kthejnë tekstin në shkronja të vogla ose të mëdha në varësi të butonit të
-zgjedhur.*/
+zgjedhur. */
 
 import javax.swing.*;
 import java.awt.*;
